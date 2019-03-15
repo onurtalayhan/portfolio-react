@@ -13,12 +13,12 @@ class Landing  extends Component {
                         className="avatar-img"
                     />
                     <div className="banner-text">
-                    <h1>Frond-End Developer</h1>
+                    <h1>Front-End Developer</h1>
                     <hr/>
                     <p>HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | REACT | NODE.JS  </p>
                     <div className="social-links">
 
-                        <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                        <a href="https://linkedin.com" rel="noopener noreferrer" target="_blank">
                         <i className="fa fa-linkedin-square"  aria-hidden="true" />
                         </a>
                         <a href="https://github.com" rel="noopener noreferrer" target="_blank">
